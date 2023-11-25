@@ -1,0 +1,46 @@
+.contribution-day {
+  width: 15px;
+  height: 15px;
+  background-color: #EDEDED;
+  box-sizing: border-box;
+}
+
+.contribution-day-lvl1 {
+  background-color: #ACD5F2;
+}
+
+.contribution-day-lvl2 {
+  background-color: #7FA8C9;
+}
+
+.contribution-day-lvl3 {
+  background-color: #527BA0;
+}
+
+.contribution-day-lvl4 {
+  background-color: #254E77;
+}
+
+.contribution-day:hover {
+  border: 1px solid #00000080;
+}
+
+.contribution-day-selected {
+  border: 1px solid #000000E6;
+}
+
+.tooltip-title {
+  color: #FFFFFF;
+  font-family: Inter;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 400;
+}
+
+.tooltip-description {
+  color: #7C7C7C;
+  font-family: Inter;
+  font-size: 10px;
+  text-align: center;
+  font-weight: 400;
+}
